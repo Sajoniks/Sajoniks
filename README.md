@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fellow game developer guy. Primary focused on Unreal Engine, but I learn new techs in my spare time.
+I am a game developer guy. I am primarly focused on Unreal Engine, but I learn new techs in my spare time.
 
 ## I used to work with:
 
